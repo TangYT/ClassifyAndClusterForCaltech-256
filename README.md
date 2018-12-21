@@ -1,0 +1,2 @@
+# ClassifyAndClusterForCaltech-256
+研一机器学习大作业，在Caltech-256数据集上进行图片分类与聚类
